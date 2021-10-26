@@ -1,2 +1,2 @@
 # IHC_SX23
-Challengue Semana 10
+Challenge Semana 10

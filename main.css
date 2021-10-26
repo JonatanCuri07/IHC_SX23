@@ -11,6 +11,11 @@ h1{
     line-height: 1.3em;
    
    }
+   ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .container img{
     max-width: 100%;
 }
